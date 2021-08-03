@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Camille
 
-- :telescope: I'm a software developer student at @Ada Tech School, in Paris.
+- :telescope: I'm a software developer student at @AdaTechSchool, in Paris.
 - :pencil: I used to be a journalist editor.
 - :bomb: I'm currently learning HTML, CSS, Javascript, PHP, MySQL, Laravel, Lua, Vue.JS, NodeJS, SwiftUI...
 - 💬 Ask me about gender, media, type1, tech 
