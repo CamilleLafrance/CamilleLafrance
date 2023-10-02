@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Camille
 
-- :honeybee: I'm working at @Courir, in Paris, as a part of my apprenticeship with @Simplon.
+- :honeybee: I'm working at @Courir, in Paris, for my apprenticeship with @Simplon.
 - :telescope: I'm graduated as a **software developer** at @AdaTechSchool, in Paris.
 - :runner: I did my first **apprenticeship** (one year) at @Swile, in Paris. 
 - :pencil: I used to be a **journalist editor**.
