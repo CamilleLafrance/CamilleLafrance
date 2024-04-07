@@ -8,4 +8,4 @@
 - 💬 Ask me about gender, media, type1, tech 
 - 📫 How to reach me: [on this link](https://www.linkedin.com/in/camille-m-lafrance/) and [this one](https://twitter.com/CamLafr)  
 
-(https://github.com/CamilleLafrance/CamilleLafrance/assets/77630883/2eee43cd-59d2-41a2-be12-a514e7e62aab)
+![pusheen-working](https://github.com/CamilleLafrance/CamilleLafrance/assets/77630883/2eee43cd-59d2-41a2-be12-a514e7e62aab)
